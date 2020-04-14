@@ -1,0 +1,2579 @@
+{
+	"filetype": "Pro:Centric HTML Program Guide Data",
+	"version": "1.0",
+	"dateGenerated": "2019-05-02 00:58",
+	"eventDate": "Thursday 05/02",
+	"startDate": "May 2, 2019 00:58:02",
+	"maxMinutes": 2671,
+	"channels": [		
+		{
+			"channelNumber": 2,
+			"channelName": "FOX",
+			"channelLogo": "FOX_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Modern Family",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "While at the hospital, Claire and Phil see an older version of their family; Manny and Jay visit a private school; Mitch and Cam organize a day for Gloria and Lily.",
+					"eventStartTime": "1556771400000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Dish Nation",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556775000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Keloid Care",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Keloid Care is safe and effective for all skin types. Specially formulated by celebrity cosmetic surgeon Dr. Michael E. Jones, it addresses the unique attributes of darker skin types that have a higher propensity for developing keloids.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556778600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cleanse, Detox, and Restore Balance with Dr. Ho Cleanse",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Dr. Ho's Cleanse is a natural, holistic system to gently cleanse, detox, and restore balance to your digestive system for optimal health. Tune in for a special TV offer!",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556782200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "TMZ",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556782200000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The First 5",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556785800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "FOX 5 Morning News at 4:30am",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Local news, weather, traffic, sports and lifestyle stories impacting San Diego.",
+					"eventStartTime": "1556785800000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Fox Morning News at 5",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Fox Morning News at 6",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Fox Morning News",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Good Day DC",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Wendy Williams Show",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Jacob Latimore (Showtime's \"The Chi\"); the cast of Cirque du Soleil's LUZIA performs; Wendy's take on the latest Hot Topics.",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556775000000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556778600000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556839800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556856000000",
+					"eventEndTime": "1556857800000"
+				}
+			]
+		},
+		{
+			"channelNumber": 3,
+			"channelName": "ABC",
+			"channelLogo": "ABC_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Nightline",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556771820000",
+					"eventEndTime": "1556773620000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Who Wants to Be a Millionaire",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773620000",
+					"eventEndTime": "1556775420000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Who Wants to Be a Millionaire",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556775420000",
+					"eventEndTime": "1556777220000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Daytime Jeopardy",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556777220000",
+					"eventEndTime": "1556779020000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "ABC World News Now",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Global news.",
+					"eventStartTime": "1556779020000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "America This Morning",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Breaking news.",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556785800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Good Morning Washington at 4:30",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556785800000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Good Morning Washington at 5:00",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Good Morning Washington at 6:00",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Good Morning America",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Actor Ryan Reynolds; deals and steals with Tory Johnson.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Live with Kelly and Ryan",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Journalist Diane Sawyer; Nicholas Hoult (\"Tolkien\"); a studio-audience member tries to win cash by playing \"Truth or Tale: The Anniversary Edition.\"",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Rachael Ray",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Molly Ringwald (\"Riverdale\") talks about what it was like to watch \"The Breakfast Club\" with her daughter; musician Questlove pops corn; fettuccine Alfredo made of cauliflower.",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The View",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Author Alan Dershowitz.",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "ABC 7 News at Noon",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Strahan & Sara",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Actor Tracy Morgan.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "General Hospital",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Sam is distracted; Shiloh pays Willow a visit; Chase confronts Michael; Carly shares her appreciation with Elizabeth; Franco and Cameron make amends.",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				}
+			]
+		},
+		{
+			"channelNumber": 4,
+			"channelName": "PBS",
+			"channelLogo": "PBS_Logo.png",
+			"events": [
+				
+				{
+					"eventLength": 30,
+					"eventName": "BBC World News",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "News. Reporting on the day's international news from London and from BBC correspondents around the world.",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556836200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Nightly Business Report",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556836200000",
+					"eventEndTime": "1556838000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "PBS NewsHour",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Midsomer Murders",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Barnaby and Jones are called in to investigate the death of amateur astronomer Jeremy Harper, who was killed by a blow to the head with a meteorite.",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556847000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Midsomer Murders",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Life and death imitates art as a murder matches that of a 1960s horror film.",
+					"eventStartTime": "1556847000000",
+					"eventEndTime": "1556852400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Amanpour and Company",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556852400000",
+					"eventEndTime": "1556856000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "History Detectives",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "A raid on the federal armory in Harpers Ferry, W.Va.; why U.S. troops were in Siberia during World War I; Ronald McDonald costume.",
+					"eventStartTime": "1556877600000",
+					"eventEndTime": "1556881200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "History Detectives",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "A Civil War soldier's letter; fabric from an aircraft could be linked to Charles Lindbergh and Igor Sikorsky; 1950s comic book \"Negro Romance.\"",
+					"eventStartTime": "1556881200000",
+					"eventEndTime": "1556884800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "History Detectives",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "A propeller from a World War II drone; wooden club may belong to Theodore Roosevelt; letter possibly written by Clara Barton voices concern about a soldier.",
+					"eventStartTime": "1556884800000",
+					"eventEndTime": "1556888400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Girlfriends",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The final night of Linda and Micky's wedding anniversary cruise takes an unexpected turn.",
+					"eventStartTime": "1556902800000",
+					"eventEndTime": "1556906400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Antiques Roadshow",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "People bring prized possessions for evaluation and pricing.",
+					"eventStartTime": "1556917200000",
+					"eventEndTime": "1556919000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "To the Contrary With Bonnie Erbé",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Journalist April Ryan.",
+					"eventStartTime": "1556919000000",
+					"eventEndTime": "1556920800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Nightly Business Report",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556922600000",
+					"eventEndTime": "1556924400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "PBS NewsHour",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556924400000",
+					"eventEndTime": "1556928000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556812800000"
+				}
+			]
+		},
+		{
+			"channelNumber": 5,
+			"channelName": "CBS",
+			"channelLogo": "CBS_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "The Late Late Show With James Corden",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Dr. Phil McGraw; actor Timothy Simons; Ashley Tisdale performs.",
+					"eventStartTime": "1556771820000",
+					"eventEndTime": "1556775420000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Entertainment Tonight",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The cast of \"The Big Bang Theory\"; Charlize Theron and Seth Rogen (\"Long Shot\"); Lance Bass (\"Single Parents\"); stars prepare for the Met Gala.",
+					"eventStartTime": "1556775420000",
+					"eventEndTime": "1556777220000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "CBS Overnight News",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Stories focused on the day's events, newsmakers and breaking news.",
+					"eventStartTime": "1556777220000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "CBS Morning News",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "News reports on current events.",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556785800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Get up DC!",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Get Up for a completely different morning show that brings you all the local traffic, weather and news you need plus a uniquely DC point of view from comedian and new host, Reese Waters. It's news, only funnier.",
+					"eventStartTime": "1556785800000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "CBS This Morning",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Actress Ali Stroker.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Great Day Washington",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Explore the D.C. region's entertainment, food, fashion, health, home improvement, travel, cooking, local community events, sports, and more.",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Let's Make a Deal",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Price Is Right",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "WUSA 9 News at Noon",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556814600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Young and the Restless",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Victor takes control; Kyle makes Lola a promise.",
+					"eventStartTime": "1556814600000",
+					"eventEndTime": "1556818200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Bold and the Beautiful",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Xander encourages Zoe to trust him enough to share her troubles; Ridge's kindness intensifies Flo's guilty conscience.",
+					"eventStartTime": "1556818200000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Talk",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Kiefer Sutherland performs; Top Talker Gerrad Hall.",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Daily Blast Live",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Surviving the Holocaust; Roman's Rescues.",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556825400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Inside Edition",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556825400000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Dr. Phil",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Kami, a self-admitted homeless drug addict and mother of four, returns to the stage and faces her family, who all inform her they will cut ties if she doesn't get sober; what happens after the show that could jeopardize Kami's future with her family.",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				}
+			]
+		},
+		{
+			"channelNumber": 6,
+			"channelName": "NBC",
+			"channelLogo": "NBC_Logo.png",
+			"events": [
+				
+				{
+					"eventLength": 30,
+					"eventName": "Early Today",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest world and national news, and reports on the day's upcoming events.",
+					"eventStartTime": "1556782200000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News4 Today at 4",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556785800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News 4 Today at 4:30",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest local news, weather and investigative stories impacting your community.",
+					"eventStartTime": "1556785800000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News 4 Today at 5",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News 4 Today at 6",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Today",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Model Chrissy Teigen; actresses Kate McKinnon and Emily Lynne; Kentucky Derby party with Siri and Carson Daly; the cast of \"Beetlejuice\" performs.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Today 3rd Hour",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Singer-songwriter Tamar Braxton; band Judah & The Lion.",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Today With Hoda & Jenna",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Journalist Meredith Vieira; Ambush Makeovers; author Chelsea Handler; the Billboard Music Awards; Kentucky Derby parties.",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News4 Midday",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest local news, weather and investigative stories impacting your community.",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Access Live",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Backstage interviews from the Billboard Music Awards; James Brolin (CBS' \"Life in Pieces\"); Ashley Tisdale (new album \"Symptoms\"); Susan Cox Powell's father Chuck Cox and sister Denise Ernest (Oxygen's \"The Disappearance of Susan Cox Powell\").",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Days of our Lives",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "J.J. makes a damaging blurt about Jack in front of the press; Abe and Sheila find themselves on the hot seat; Eli and Lani argue over David; Claire lashes out at Tripp.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Steve",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Nancy Grace; a Mother's Day gift guide; a Baltimore-area movie theater is changing the movie theater game with luxury accommodations.",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Ellen DeGeneres Show",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Diane Keaton (\"Poms\"); John Bradley (\"Game of Thrones\"); Ellen sends executive producer Andy Lassner and his biggest fan to cover the red carpet at the 2019 Billboard Music Awards in Las Vegas.",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News4 at 4",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest local news, weather and investigative stories impacting your community.",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News4 at 5",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest local news, weather and investigative stories impacting your community.",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "News4 at 6",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest local news, weather and investigative stories impacting your community.",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				}
+			]
+		},
+		{
+			"channelNumber": 7,
+			"channelName": "ESPN",
+			"channelLogo": "ESPN_Logo.png",
+			"events": [				
+				{
+					"eventLength": 30,
+					"eventName": "Outside the Lines",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Examining daily issues with an investigative piece followed by a debate. Hosted by Bob Ley.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556818200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA Countdown",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "NBA basketball analysts and experts preview the upcoming action.",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA Basketball",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The Raptors and 76ers head to Philadelphia for Game 3 of their second-round series. Jimmy Butler's 30-point double-double helped Philly top Toronto 94-89 in Game 2. The Raps shot just 36.3 percent in the defeat, going 10-for-37 from 3-point land.",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556850600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556818200000",
+					"eventEndTime": "1556838000000"
+                },
+                {
+					"eventLength": 30,
+					"eventName": "Outside the Lines",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Examining daily issues with an investigative piece followed by a debate. Hosted by Bob Ley.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556818200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA Countdown",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "NBA basketball analysts and experts preview the upcoming action.",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA Basketball",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The Raptors and 76ers head to Philadelphia for Game 3 of their second-round series. Jimmy Butler's 30-point double-double helped Philly top Toronto 94-89 in Game 2. The Raps shot just 36.3 percent in the defeat, going 10-for-37 from 3-point land.",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556850600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556818200000",
+					"eventEndTime": "1556838000000"
+                },
+                {
+					"eventLength": 30,
+					"eventName": "Outside the Lines",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Examining daily issues with an investigative piece followed by a debate. Hosted by Bob Ley.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556818200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA Countdown",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "NBA basketball analysts and experts preview the upcoming action.",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA Basketball",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The Raptors and 76ers head to Philadelphia for Game 3 of their second-round series. Jimmy Butler's 30-point double-double helped Philly top Toronto 94-89 in Game 2. The Raps shot just 36.3 percent in the defeat, going 10-for-37 from 3-point land.",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556850600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "No show information",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556780400000"
+				}
+			]
+		},
+		{
+			"channelNumber": 8,
+			"channelName": "ESPN2",
+			"channelLogo": "ESPN2_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "UFC Ultimate Knockouts",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "A look at unbelievable finishes from strikers at their best, featuring Michael Bisping, Dan Henderson, TJ Dillashaw, Yair Rodriguez, Derrick Lewis and more.",
+					"eventStartTime": "1556771400000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "UFC Main Event",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Features Brock Lesnar vs. Alistair Overeem and Nate Diaz vs. Donald Cerrone.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Now or Never",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Steve Covino, Rich Davis and Janelle Marie Rodriguez discuss the latest in sports and pop culture.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556778600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "UFC Main Event",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Lightweight contenders Rafael Dos Anjos and Nate Diaz battle.",
+					"eventStartTime": "1556778600000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "SportsCenter",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "ESPN's flagship program provides sports news, highlights and analysis.",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "UFC Ultimate Knockouts",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "The greatest finishers from the heavyweight division including Cain Velasquez, Minotauro Nogueira, Junior dos Santos, Andrei Arlovski and more.",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556789400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "UFC Ultimate Knockouts",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "Featuring Chuck Liddell, Jon Jones, Anderson Silva, Cain Velasquez and more.",
+					"eventStartTime": "1556789400000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Golic & Wingo",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "\"Golic & Wingo\" is a one-stop-morning-shop for the biggest sports stories of the day -- delivered with insight, expert analysis and unrivaled access. From sports to pop culture to entertainment and more. Every day.",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556798400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Get Up",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Mike Greenberg and Jalen Rose discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport.",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "First Take",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Max Kellerman joins Molly Qerim and Stephen A. Smith as they debate the hottest topics in sports.",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Jalen & Jacoby",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Jalen Rose and David Jacoby break down the latest in sports and pop culture.",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NFL Live",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NBA: The Jump",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Current and former NBA players, ESPN analysts, reporters and insiders sit down with host Rachel Nichols and discuss issues involving the NBA.",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "High Noon",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Two great friends, Bomani Jones and Pablo Torre, scrutinize sports.",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556832600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Highly Questionable",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The sportswriter, radio host and critic gives his take on sports issues in the news.",
+					"eventStartTime": "1556832600000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Around the Horn",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Sportswriters around the country discuss sports issues.",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556836200000"
+				}
+			]
+		},
+		{
+			"channelNumber": 9,
+			"channelName": "NFL",
+			"channelLogo": "NFL_Network_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Destination Nashville",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "An exclusive, all-access look at eight elite 2019 NFL Draft prospects on their journey to achieving their dream of playing in the NFL.",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Path to the Draft",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A recap of the 2019 NFL Draft with in-depth analysis of every pick, as experts reveal who did the most to improve their team.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NFL Total Access",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "NFL Network's flagship show with the latest news, opinions, highlights and interviews from around the league.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NFL Football",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "2018 AFC Championship. From Jan. 20, 2019.",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Good Morning Football",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Highlights and trending news from across the football world.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Up to the Minute",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The latest NFL news, injury updates and inside information from reporters across the country.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Top 10",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Countdown the best rookies who jumped the scene early with spectacular first years in the NFL.",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie, Welcome to the NFL",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Following the journey of soon-to-be NFL rookies Saquon Barkley and Bradley Chubb.",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556829000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie, Welcome to the NFL",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Following the journey of soon-to-be NFL rookies Saquon Barkley and Bradley Chubb.",
+					"eventStartTime": "1556829000000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie, Welcome to the NFL",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Following the journey of soon-to-be NFL rookies Saquon Barkley and Bradley Chubb.",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556832600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie, Welcome to the NFL",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Following the journey of soon-to-be NFL rookies Saquon Barkley and Bradley Chubb.",
+					"eventStartTime": "1556832600000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie, Welcome to the NFL 2014- Part II",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Tracking the top first-year players through the 2014 NFL season. Rookies featured: Sammy Watkins, Jarvis Landry, Mike Evans, Odell Beckham Jr. andJordan Matthews.",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556845200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie: Welcome to the NFL 2012 - Part II",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Following the paths of players through their first season in the NFL. Rookies featured: Andrew Luck, Robert Griffin III, Russell Wilson, Brandon Weeden and Ryan Tannehill.",
+					"eventStartTime": "1556845200000",
+					"eventEndTime": "1556848800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hey Rookie: Welcome to the NFL 2011 - Part II",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Following the paths of rookies Andy Dalton, AJ Green, Patrick Peterson, Marcel Dareus and Cam Newton from the NFL Draft up to their first preseason game with their new team.",
+					"eventStartTime": "1556848800000",
+					"eventEndTime": "1556852400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Making of the 100-Year Game",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A behind-the-scenes look at the making of the NFL's star-studded Super Bowl commercial kicking off the celebration of the league's 100th season.",
+					"eventStartTime": "1556866800000",
+					"eventEndTime": "1556868600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "NFL Football",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "From Nov. 18, 2018.",
+					"eventStartTime": "1556868600000",
+					"eventEndTime": "1556877600000"
+				}
+			]
+		},
+		{
+			"channelNumber": 10,
+			"channelName": "BTN",
+			"channelLogo": "Big_Ten_Network_logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Ohio State Football Classic",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "From Nov. 18, 2006.",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Game: 2006.....Remembered",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The history of events leading up to the much-anticipated matchup between the top-ranked Buckeyes and the second-ranked Wolverines in what is now called the Game of the Century.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "BTN Football in 60",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Jeremy Larkin rushes for a career-high 143 yards and scores two touchdowns, leading the Wildcats to a 31-27 season-opening victory over the Boilermakers at Ross-Ade Stadium.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Spring Football All-Access 2019",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A look at Northwestern's spring football camp.",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556782200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Women's College Golf",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556782200000",
+					"eventEndTime": "1556785800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "BTN Wrestling in 60",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The top moments from the 2018-19 Big Ten season.",
+					"eventStartTime": "1556785800000",
+					"eventEndTime": "1556789400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "To Be Announced",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556789400000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Penn State Football Classic",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "From Dec. 3, 2016.",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Big Ten Elite",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "The 1986 Nittany Lions finished with a perfect 12-0 record after defeating No. 1 Miami in a thrilling title clash en route to their second National Championship in four years.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556798400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Unbeaten: The Life of Brook Berringer",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Chronicling former Nebraska quarterback Brook Berringer, from his days at Goodland High School to his rise to starting quarterback of the Cornhuskers in 1994 and subsequent battle with Tommy Frazier leading up to the 1995 season.",
+					"eventStartTime": "1556798400000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Nebraska Football Classic",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "From Jan. 1, 2014.",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Student U",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Student-produced sporting events.",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556818200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Journey: Big Ten Football",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Behind the scenes of the Big Ten Conference.",
+					"eventStartTime": "1556818200000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Campus Eats",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Checking out the best breakfast around with stops at Michigan State, Iowa, Nebraska and Minnesota; former Gopher QB Adam Webber shows his favorite spot on campus.",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556821800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "BTN Football in 60",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Antoine Winfield Jr. secures a 21-14 Minnesota victory over Fresno State with a late fourth-quarter interception at TCF Bank Stadium.",
+					"eventStartTime": "1556821800000",
+					"eventEndTime": "1556825400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Campus Eats",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Northwestern head football coach Pat Fitzgerald takes a break from the field to visit Mustard's Last Stand while Jenny and Troy head to Bloomington for pizza, Madison for breakfast, and Iowa City for some pizza and burgers.",
+					"eventStartTime": "1556825400000",
+					"eventEndTime": "1556827200000"
+				}
+			]
+		},
+		{
+			"channelNumber": 12,
+			"channelName": "CNN",
+			"channelLogo": "CNN_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Anderson Cooper 360",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cuomo Prime Time",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "CNN Tonight With Don Lemon",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "CNN Tonight With Don Lemon",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Early Start With Christine Romans and Dave Briggs",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Early Start With Christine Romans and Dave Briggs",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791140000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "New Day With Alisyn Camerota and John Berman",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791140000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "New Day With Alisyn Camerota and John Berman",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556798400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "New Day With Alisyn Camerota and John Berman",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556798400000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "William Barr House Hearing",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Attorney General William Barr testifies before the House Judiciary Committee on the Mueller Report and the Department of Justice's Investigation of Russian Interference with the 2016 Presidential Election.",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Lead With Jake Tapper",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Situation Room With Wolf Blitzer",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Situation Room With Wolf Blitzer",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Erin Burnett OutFront",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Anderson Cooper 360",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556845200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cuomo Prime Time",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556845200000",
+					"eventEndTime": "1556848800000"
+				}
+			]
+		},
+		{
+			"channelNumber": 13,
+			"channelName": "CNBC",
+			"channelLogo": "CNBC_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Jay Leno's Garage",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "\"Baby Driver\" star Jamie Foxx reveals his driving skills; stunt driver Ben Collins re-creates the chase scene from \"The Spy Who Loved Me\"; original \"Bullitt\" Mustang; musician James Taylor reunites with the car from \"Two Lane Blacktop.\"",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Jay Leno's Garage",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "Getting away; Jay teaches punk rocker Johnny Rotten how to drive for the first time; director Michael Mann shows Jay how 1930s gangsters escaped; filming a car chase; a family who models their Truckster after the \"Vacation\" films.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Learn the Secrets to Wall Street's Success & Invest Like a Pro",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Ever wonder why the pros on Wall Street get richer while average investors fall behind? You don't have to work on Wall Street to make Money like Wall Street. See how people like you transformed their lives after learning how to invest like the pros.",
+					"eventStartTime": "1556778600000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Power Smokeless Grill",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Authentic, Char-Grilled Meals Indoors Without All The Smoke!",
+					"eventStartTime": "1556782200000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Street Signs",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Information about under-the-radar stocks and market trends help investors make wise choices.",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Worldwide Exchange",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Delivering essential, actionable information and analysis for anyone who wants to be part of the global business conversation; preparing CNBC's worldwide audience with a smart take on overnight U.S. news and live international market action.",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Squawk Box",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The biggest names in business and politics tell their most important stories in this ultimate pre-market morning news and talk program; a must see for everyone, from the professional trader to the casual investor.",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Squawk on the Street",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Squawk Alley",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Fast Money Halftime Report",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "\"Fast Money Halftime Report\" is on the front lines of CNBC's market coverage; host CNBC's Scott Wapner and the Street's top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day.",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Exchange",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Anchor Kelly Evans reports on the most important stories to today's markets and investors; reporters provide actionable information to viewers as they make daily investment decisions.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Power Lunch",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Closing Bell",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A guide through the most important hour of the Wall Street trading day, and taking a close-up look at how the markets are moving, what's driving them and how investors are reacting; coverage includes reports from the CME Group, NASDAQ and the NYSE.",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Fast Money",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Mad Money",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Shark Tank",
+					"eventRating": "TV-PG",
+					"eventResolution": "SD",
+					"eventDescription": "A woman seeks an investment for a toilet training kit for cats; the sharks fight for a piece of a million-dollar company owned by a pharmacist.",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				}
+			]
+		},
+		{
+			"channelNumber": 14,
+			"channelName": "HLN",
+			"channelLogo": "Headline_News_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Investigators reopen a case from 1984 involving the rape of a young Virginia woman when DNA testing refutes her identification of the rapist and calls everything into question, leading to the accused person's exoneration.",
+					"eventStartTime": "1556771400000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Forensic scientists provide authorities with evidence that a death deemed accidental 20 years ago was actually murder.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556775000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Detectives learn that a genetic disorder caused the deaths of a woman's children, resulting in an overturned conviction.",
+					"eventStartTime": "1556775000000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A woman goes missing for a month with the only clues being a set of keys, a fingerprint and a code.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556778600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Police discover a mask near the crime scene and hope that it leads to the killer of a funeral director.",
+					"eventStartTime": "1556778600000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "When a man perishes in a fire while working in his garage, his death is initially ruled an accident until a forensic odontologist changes the direction of the case.",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556782200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "After a wealthy Southern physician gets murdered with a baseball bat, his wife and a handyman become convicted of the crime.",
+					"eventStartTime": "1556782200000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A bullet-riddled car, a missing driver, and no witnesses. An ambush or a random attack? The clue was something so tiny, it was measured in millionths of a meter.",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556785800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Teenager is found half-naked with her throat slit. A single foreign hair found on her thumb may finger the killer.",
+					"eventStartTime": "1556785800000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Hikers near Anchorage, Alaska discover a body wrapped in sheets edged in orange stitching; they discover threads of evidence clinging to the sheet.",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556789400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Forensic Files",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The son of a murder victim contacts the police when a flight attendant is brutally murdered in a remarkably similar way.",
+					"eventStartTime": "1556789400000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Morning Express With Robin Meade",
+					"eventRating": "TV-14",
+					"eventResolution": "SD",
+					"eventDescription": "The news of the day, including weather, sports, entertainment, money, and travel segments, delivered in a fast-paced, approachable tone.",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "On the Story",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Reporting on the big events and the most-talked about stories of the day, helping viewers understand what the story is, why it matters and how it impacts their daily lives.",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "True Crime Live",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "How It Really Happened",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "A tale of murder, adultery, courtroom drama, and ultimately the death penalty; the story of Scott and Laci Peterson as told by those who lived it.",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "How It Really Happened",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "At the young age of 23, New England Patriots star player Aaron Hernandez is set up for greatness; less than a year later, a body is found riddled with bullets only a short distance from Hernandez's home.",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				}
+			]
+		},
+		{
+			"channelNumber": 15,
+			"channelName": "Fox News",
+			"channelLogo": "Fox_News_Channel_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Tucker Carlson Tonight",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Hannity",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Ingraham Angle",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Fox News at Night With Shannon Bream",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "FOX & Friends First",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "FOX & Friends First",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "FOX and Friends",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "America's Newsroom",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Outnumbered",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Outnumbered Overtime With Harris Faulkner",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Daily Briefing With Dana Perino",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Shepard Smith Reporting",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Your World With Neil Cavuto",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Five",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Special Report With Bret Baier",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Story With Martha MacCallum",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				}
+			]
+		},
+		{
+			"channelNumber": 17,
+			"channelName": "Fox Business",
+			"channelLogo": "Fox_Business_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Kennedy",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "U2, Tom Petty, Bruce Springsteen",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The Rock & Roll Hall of Fame in Concert: the very best live performances by rock's greatest stars from the past 30 years! Including performances by Bruce Springsteen, Tom Petty, U2, and more!",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556775000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Frankie Valli, The Supremes, Aretha Franklin",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "The 60's was a decade of change, new hopes and dreams, and new attitudes. Love and romance were expressed in new and different ways with unique musical styles.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556778600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "John Denver, Louis Armstrong, Nat King Cole",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "Love songs were the soundtrack to our early days of romance. Listen to artists like John Denver, Perry Como and more.",
+					"eventStartTime": "1556782200000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Lou Dobbs Tonight",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "FBN AM",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Mornings With Maria Bartiromo",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Varney & Company",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cavuto: Coast to Coast",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Making Money With Charles Payne",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Countdown to the Closing Bell With Liz Claman",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "After the Bell",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bulls & Bears",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Evening Edit",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Lou Dobbs Tonight",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556841600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Trish Regan Primetime",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556841600000",
+					"eventEndTime": "1556845200000"
+				}
+			]
+		},
+		{
+			"channelNumber": 18,
+			"channelName": "MSNBC",
+			"channelLogo": "MSNBC_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "The Rachel Maddow Show",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Last Word With Lawrence O'Donnell",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The 11th Hour With Brian Williams",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "All In With Chris Hayes",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "First Look",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Morning Joe",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MSNBC Live With Stephanie Ruhle",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MSNBC Live With Hallie Jackson",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MSNBC Live With Craig Melvin",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Andrea Mitchell Reports",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MSNBC Live with Velshi and Ruhle",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556820000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MSNBC Live With Katy Tur",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556823600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MSNBC Live with Ali Velshi",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556823600000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Deadline: White House",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "MTP Daily",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Beat With Ari Melber",
+					"eventRating": "",
+					"eventResolution": "SD",
+					"eventDescription": "",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				}
+			]
+		},
+		{
+			"channelNumber": 19,
+			"channelName": "Bloomberg",
+			"channelLogo": "Bloomberg_Television_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Dr. Ho's Total Body Relief",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "The DR-HO'S Circulation Promoter is designed to help improve circulation, reduce swelling, alleviate aching feet and legs, and relieve pain, tension, and stiffness.",
+					"eventStartTime": "1556771400000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Daybreak: Europe",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "From London, breaking business news stories in the lead-up to the opening of European markets.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556778600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: European Open",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "From London, global business and market news.",
+					"eventStartTime": "1556778600000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Surveillance",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Business stories and and reports on global markets, from London and New York.",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556794800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Daybreak: Americas",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "The latest in business and finance, providing unique global insights into where industry and markets are heading.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: The Open",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Showcasing the most insightful and informative Bloomberg charts to help position the global audience for the trading day, accompanied by the Street's biggest and most respected strategists.",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: Americas",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "From New York, global business and markets news.",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: European Close",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Live from New York and London; analyzing the major stories; hear from the biggest newsmakers.",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: Balance of Power",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Focusing on the politics and policies being shaped by President Trump's administration.",
+					"eventStartTime": "1556812800000",
+					"eventEndTime": "1556816400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Commodities Edge",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Bloomberg's Alix Steel talks to the smartest voices from the commodity world to discuss the biggest stories and trends in the market; proprietary BNEF research breaks down the trade of the week; dissect market dislocations.",
+					"eventStartTime": "1556816400000",
+					"eventEndTime": "1556818200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: The Close",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "The final minutes and seconds before the closing bell on Wall Street with the latest news, data and expert analysis.",
+					"eventStartTime": "1556820000000",
+					"eventEndTime": "1556827200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "What'd You Miss?",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Bloomberg TV's flagship markets program, provides key insights, analysis and context at the market close.",
+					"eventStartTime": "1556827200000",
+					"eventEndTime": "1556830800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Technology",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Daily news on technology, innovation and the future of business.",
+					"eventStartTime": "1556830800000",
+					"eventEndTime": "1556834400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Daybreak: Australia",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "The latest business news from Sydney and New York.",
+					"eventStartTime": "1556834400000",
+					"eventEndTime": "1556838000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Daybreak: Asia",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Essential stories from the close of the U.S. markets to the open of trading across Asia.",
+					"eventStartTime": "1556838000000",
+					"eventEndTime": "1556845200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Bloomberg Markets: China Open",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "The definitive guide to the markets in Hong Kong and on the mainland; Rishaad Salamat, David Ingles, Tom Mackenzie and Yvonne Man bring the latest news and analysis to start the trading day.",
+					"eventStartTime": "1556845200000",
+					"eventEndTime": "1556848800000"
+				}
+			]
+		},
+		{
+			"channelNumber": 20,
+			"channelName": "Food Network",
+			"channelLogo": "Food_Network_Logo.png",
+			"events": [
+				{
+					"eventLength": 30,
+					"eventName": "Guy's Grocery Games",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Guy knows there's nothing like the teamwork in a busy restaurant's kitchen, so he invites three teams of phenomenal chefs to represent their restaurants in Flavortown in two action-packed rounds of games involving prix fixe menus and best-sellers.",
+					"eventStartTime": "1556769600000",
+					"eventEndTime": "1556773200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Guy's Grocery Games",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Four food scientists showcase their molecular gastronomy skills; in the first round, the chefs must flip the basic ingredients of a hamburger into a modern dinner; making a twist on an American classic with restrictions dictated by the Food Pyramid.",
+					"eventStartTime": "1556773200000",
+					"eventEndTime": "1556776800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Guy's Grocery Games",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Four seasoned and spunky grandmothers compete; in the first round, the chefs make a version of their grandkids' favorite dish; budgeting and coupon clipping skills are put to the test; a family recipe cook-off, featuring three weird ingredients.",
+					"eventStartTime": "1556776800000",
+					"eventEndTime": "1556780400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Guy's Grocery Games",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Chefs compete in three beef-inspired rounds; Guy asks them to shop for, prepare and plate their best beef burger; chefs receive scratch-off budget cards with the amount they can spend on their dish; chefs roll dice to determine their dinner details.",
+					"eventStartTime": "1556780400000",
+					"eventEndTime": "1556784000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Restaurant: Impossible",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Chef Robert Irvine receives a desperate plea from Ayana, the daughter of the owners of So Natural Organic Restaurant and Market in Harker Heights, Texas.",
+					"eventStartTime": "1556784000000",
+					"eventEndTime": "1556787600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "1 Minute Miracle Makeup",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "This amazing Beauty Secret is for all ages & skin types. You'll create a Youthful, Sexy Glow with 1 Compact, 1 Brush, in 1 Minute & discover the Magic of Mineral Mist by Chrisina Cosmetics.",
+					"eventStartTime": "1556787600000",
+					"eventEndTime": "1556789400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Dancer's Body Secret",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Improve flexibility, core strength, and joint stability right in the comfort of your home!",
+					"eventStartTime": "1556789400000",
+					"eventEndTime": "1556791200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Shark APEX DuoClean Zero-M Powered Lift-Away Vacuum - Say Goodbye to Tangled Brush Rolls!",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Your package includes: DuoClean technology, Zero-M cleaner head, Crevice Tool, Pet Multi-Tool, 90-Day Money Back Guarantee, 5-year VIP warranty, BONUS MultiFLEX Under-Appliance Wand to clean under and behind appliances and hard-to-move furniture.",
+					"eventStartTime": "1556791200000",
+					"eventEndTime": "1556793000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cindy Crawford and Ellen Pompeo share secrets",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Join Cindy Crawford and Ellen Pompeo as they discuss their busy lives and the breakthrough skin care discovery that keeps them looking their best. Take a trip to the stunning French countryside to see a rare French melon that defies aging.",
+					"eventStartTime": "1556794800000",
+					"eventEndTime": "1556796600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "PiYo Workout!",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Define your body with PiYo. Chalene Johnson's new lower-impact workout series combining the muscle-sculpting benefits of Pilates, Yoga and fluid motion all-in-one!",
+					"eventStartTime": "1556796600000",
+					"eventEndTime": "1556798400000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Dr Axe & Jordan Rubin Discuss Multi Collagen Benefits for your health",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Ancient Nutrition with Dr Josh Axe & Jordan Rubin -Health Secrets Revealed about the benefits of Multi Collagen Protein to support healthy skin, hair, nails, gut and joint health.",
+					"eventStartTime": "1556798400000",
+					"eventEndTime": "1556800200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The PiYo Craze!",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Define your body with PiYo. Chalene Johnson's new lower-impact workout series combining the muscle-sculpting benefits of Pilates, Yoga and fluid motion all-in-one!",
+					"eventStartTime": "1556800200000",
+					"eventEndTime": "1556802000000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Supermodel Carol Alt and Actress Finola Hughes Share Skincare Secrets!",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "In this beauty and wellness segment, featuring Carol Alt and Finola Hughes, world-renowned dermatologist Dr. Denese reveals her latest innovation on how you can transform your skin and restore a more youthful, radiant-looking complexion!",
+					"eventStartTime": "1556802000000",
+					"eventEndTime": "1556803800000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "The Pioneer Woman",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Strawberry cherry lemon limeade and awesome orange bars; a great make-ahead dinner on the go with slow cooker lasagna and Missy's marinated tomatoes, ready to eat when the family's done stacking hay.",
+					"eventStartTime": "1556803800000",
+					"eventEndTime": "1556805600000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cupcake Wars",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Four bakers fight for the chance to have their cupcakes featured at the center of a party celebrating the revival of \"Annie The Musical.\"",
+					"eventStartTime": "1556805600000",
+					"eventEndTime": "1556809200000"
+				},
+				{
+					"eventLength": 30,
+					"eventName": "Cake Wars",
+					"eventRating": "TV-G",
+					"eventResolution": "SD",
+					"eventDescription": "Four talented cake artists go to battle for the chance to have their cake as the centerpiece of a party celebrating the animated movie \"Smurfs: The Lost Village\"; Kelly Asbury, director of the film, joins the judging panel.",
+					"eventStartTime": "1556809200000",
+					"eventEndTime": "1556812800000"
+				}
+			]
+		}		
+	]
+}
